@@ -7,6 +7,24 @@ An end-to-end data analytics project exploring how **season, crop, geography, en
 The project combines data cleaning, exploratory analysis, statistical testing, visualization, and an interactive Streamlit dashboard to turn agricultural data into practical, evidence-based insights.
 
 ---
+## 🚀 Live Dashboard
+
+> **Explore the project interactively:**  
+> 🌐 **[Open Live Dashboard](https://ritusmita09.github.io/seasonal-agriculture-performance-analysis/)**
+
+The dashboard provides an interactive view of the cleaned agricultural dataset, including:
+
+- 📊 Seasonal performance
+- 🌾 Crop & season analysis
+- 🌱 Environmental & resource metrics
+- 💰 Revenue, cost & profitability
+- 💧 Water efficiency
+- ⚠️ Disease & pest risk
+- 🔗 Statistical relationships and correlations
+- 💡 Evidence-based insights
+
+**Technology:** HTML • CSS • JavaScript • CSV • GitHub Pages
+---
 
 ## 📚 Contents
 
